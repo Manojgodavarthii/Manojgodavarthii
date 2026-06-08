@@ -22,28 +22,30 @@
   <img src="https://img.shields.io/badge/profile.py-16161e?style=flat-square&logo=python&labelColor=7aa2f7&logoColor=white" alt="profile.py file" />
 </p>
 
-<table align="center">
-  <tr>
-    <td style="background-color: rgba(102, 146, 240, 0.08); border: 1px solid rgba(122, 162, 247, 0.25); border-radius: 10px; padding: 25px;">
-      <pre lang="python" style="background-color: transparent; border: none; margin: 0; padding: 0; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace;">
-<span style="color: #bb9af7;">class</span> <span style="color: #7aa2f7;">GodavarthiNagaManojBalaji</span>:
-    <span style="color: #bb9af7;">def</span> <span style="color: #7aa2f7;">__init__</span>(<span style="color: #e0af68;">self</span>):
-        <span style="color: #e0af68;">self</span>.name = <span style="color: #9ece6a;">"Godavarthi Naga Manoj Balaji"</span>
-        <span style="color: #e0af68;">self</span>.username = <span style="color: #9ece6a;">"Manojgodavarthii"</span>
-        <span style="color: #e0af68;">self</span>.role = <span style="color: #9ece6a;">"Graduate in B.Tech Computer Engineering (AI&ML)"</span>
-        <span style="color: #e0af68;">self</span>.college = <span style="color: #9ece6a;">"Presidency University, Bangalore"</span>
-        <span style="color: #e0af68;">self</span>.location = <span style="color: #9ece6a;">"Bhattiprolu, Andhra Pradesh, India"</span>
-        <span style="color: #e0af68;">self</span>.motto = <span style="color: #9ece6a;">"Learning is the life 💭"</span>
-        
-    <span style="color: #bb9af7;">def</span> <span style="color: #7aa2f7;">get_socials</span>(<span style="color: #e0af68;">self</span>) -> <span style="color: #2ac3de;">dict</span>:
-        <span style="color: #bb9af7;">return</span> {
-            <span style="color: #9ece6a;">"LinkedIn"</span>: <span style="color: #9ece6a;">"https://www.linkedin.com/in/godavarthi-naga-manoj-balaji/"</span>,
-            <span style="color: #9ece6a;">"GitHub"</span>: <span style="color: #9ece6a;">"https://github.com/Manojgodavarthii"</span>,
-            <span style="color: #9ece6a;">"Email"</span>: <span style="color: #9ece6a;">"godaverthinagamnojbalaji@gmail.com"</span>
+<table align="center" width="100%">
+<tr>
+<td style="background-color: rgba(102, 146, 240, 0.08); border: 1px solid rgba(122, 162, 247, 0.25); border-radius: 10px; padding: 25px;">
+
+```python
+class GodavarthiNagaManojBalaji:
+    def __init__(self):
+        self.name = "Godavarthi Naga Manoj Balaji"
+        self.username = "Manojgodavarthii"
+        self.role = "Graduate in B.Tech Computer Engineering (AI&ML)"
+        self.college = "Presidency University, Bangalore"
+        self.location = "Bhattiprolu, Andhra Pradesh, India"
+        self.motto = "Learning is the life 💭"
+
+    def get_socials(self) -> dict:
+        return {
+            "LinkedIn": "https://www.linkedin.com/in/godavarthi-naga-manoj-balaji/",
+            "GitHub": "https://github.com/Manojgodavarthii",
+            "Email": "godaverthinagamnojbalaji@gmail.com"
         }
-      </pre>
-    </td>
-  </tr>
+```
+
+</td>
+</tr>
 </table>
 
 ---
@@ -52,15 +54,15 @@
 
 <table align="center">
   <tr>
-    <td style="background-color: rgba(102, 146, 240, 0.08); border: 1px solid rgba(122, 162, 247, 0.25); border-radius: 10px; padding: 25px;">
+    <td style="background-color: rgba(102, 146, 240, 0.08); border: 1px solid rgba(122, 162, 247, 0.25); border-radius: 10px; padding: 25px; color: #a9b1d6;">
       <p>
-        🎓 I am a <font color="#7aa2f7"><b>Computer Science & Engineering</b></font> undergraduate student at <font color="#bb9af7"><b>Presidency University, Bangalore</b></font>.
+        🎓 <b>Aspiring Data Analyst</b> and <b>AI enthusiast</b> with a strong foundation in <font color="#7aa2f7"><b>Data Analytics</b></font>, <font color="#bb9af7"><b>Machine Learning</b></font>, and <font color="#2ac3de"><b>Generative AI</b></font>. Skilled in <font color="#7aa2f7"><b>Python</b></font>, <b>SQL</b>, <b>Excel</b>, <font color="#bb9af7"><b>Power BI</b></font>, and <font color="#2ac3de"><b>Tableau</b></font>, with experience transforming complex data into actionable insights through analysis and visualization.
       </p>
       <p>
-        🧠 My core focus lies at the intersection of <font color="#7aa2f7"><b>Deep Learning</b></font>, <font color="#bb9af7"><b>Computer Vision</b></font>, and <font color="#2ac3de"><b>Natural Language Processing</b></font>. I love building smart systems that bridge the gap between machine intelligence and practical user applications.
+        🧠 I have worked on projects involving data analytics, recommendation systems, disease prediction, AI-powered accessibility solutions, and deep learning applications, such as the <font color="#7aa2f7"><b>SAR Image Colorization</b></font> project. I am passionate about solving real-world problems using data-driven approaches and continuously expanding my knowledge in analytics and artificial intelligence.
       </p>
       <p>
-        ⚡ I'm currently expanding my skillset into <font color="#7aa2f7"><b>Full-Stack Web Development</b></font> (React.js) and <font color="#bb9af7"><b>MLOps pipelines</b></font> to build and deploy scalable AI solutions.
+        💼 Currently seeking opportunities in <font color="#7aa2f7"><b>Data Analytics</b></font>, <font color="#bb9af7"><b>Business Intelligence</b></font>, and <font color="#2ac3de"><b>AI-related</b></font> domains where I can contribute my analytical, technical, and problem-solving skills while continuing to grow as a professional.
       </p>
     </td>
   </tr>
@@ -71,11 +73,12 @@
 <h2 align="center"><font color="#bb9af7">💡 Core Competencies</font></h2>
 
 <p align="center">
-  <code>Computer Vision</code> &nbsp;•&nbsp;
-  <code>Predictive Analytics</code> &nbsp;•&nbsp;
-  <code>Natural Language Processing</code> &nbsp;•&nbsp;
-  <code>Recommendation Systems</code> &nbsp;•&nbsp;
-  <code>Full-Stack Development</code>
+  <code>Python</code> &nbsp;•&nbsp;
+  <code>Machine Learning</code> &nbsp;•&nbsp;
+  <code>Data Analytics</code> &nbsp;•&nbsp;
+  <code>Power BI</code> &nbsp;•&nbsp;
+  <code>Gen AI</code> &nbsp;•&nbsp;
+  <code>Recommendation Systems</code>
 </p>
 
 ---
@@ -219,13 +222,23 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
+<p align="center">
+  <b>🎨 Web Design</b>
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Designing-16161e?style=for-the-badge&logo=webflow&logoColor=7aa2f7" />
+  <img src="https://img.shields.io/badge/Responsive%20Design-7aa2f7?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</p>
+
 ---
 
 <h2 align="center"><font color="#bb9af7">📖 Currently Learning & Exploring</font></h2>
 
 <table align="center">
   <tr>
-    <td style="background-color: rgba(187, 154, 247, 0.08); border: 1px solid rgba(187, 154, 247, 0.25); border-radius: 10px; padding: 25px;">
+    <td style="background-color: rgba(187, 154, 247, 0.08); border: 1px solid rgba(187, 154, 247, 0.25); border-radius: 10px; padding: 25px; color: #a9b1d6;">
       <p align="left">
         📊 <font color="#7aa2f7"><b>Data Analysis</b></font><br>
         <kbd>Pandas</kbd> <kbd>NumPy</kbd> <kbd>Data Visualization</kbd> <kbd>EDA</kbd>
@@ -260,7 +273,7 @@
 
 <table align="center">
   <tr>
-    <td style="background-color: rgba(102, 146, 240, 0.08); border: 1px solid rgba(122, 162, 247, 0.25); border-radius: 10px; padding: 25px;">
+    <td style="background-color: rgba(102, 146, 240, 0.08); border: 1px solid rgba(122, 162, 247, 0.25); border-radius: 10px; padding: 25px; color: #a9b1d6;">
       <ul>
         <li>🔭 I'm currently developing <font color="#7aa2f7"><b>deep learning model structures</b></font> and fine-tuning <font color="#bb9af7"><b>BERT workflows</b></font>.</li>
         <li>👯 I’m actively seeking to collaborate on open-source <font color="#7aa2f7"><b>Deep Learning</b></font> and <font color="#bb9af7"><b>MLOps</b></font> repositories.</li>
