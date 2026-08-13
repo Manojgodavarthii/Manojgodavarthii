@@ -83,6 +83,45 @@ class GodavarthiNagaManojBalaji:
 
 ---
 
+<!-- LATEST_PROJECT:START -->
+<h2 align="center"><font color="#7aa2f7">⭐ Latest Projects</font></h2>
+
+<table align="center" style="border-collapse: separate; border-spacing: 15px;">
+  <tr>
+    <td width="50%" valign="top" style="background-color: rgba(102, 146, 240, 0.08); border: 1px solid rgba(122, 162, 247, 0.25); border-radius: 10px; padding: 25px;">
+      <p align="center">
+        <img src="https://img.shields.io/badge/-Latest%20Added-7aa2f7?style=flat-square&logo=github&logoColor=white" alt="Latest Added Badge" />
+      </p>
+      <h3 align="center"><font color="#7aa2f7">🚀 Interactive-Data-Analytics-Machine-Learning-Suite</font></h3>
+      <p align="left">An end-to-end interactive Streamlit data platform featuring automated data cleaning, exploratory visual analytics, AI insights, and real-time custom machine...</p>
+      <p align="left"><b>Last updated:</b> Aug 2026</p>
+      <p align="center"><kbd>Python</kbd></p>
+      <p align="center">
+        <a href="https://github.com/Manojgodavarthii/Interactive-Data-Analytics-Machine-Learning-Suite">
+          <img src="https://img.shields.io/badge/Explore%20Repository-7aa2f7?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repository" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top" style="background-color: rgba(102, 146, 240, 0.08); border: 1px solid rgba(122, 162, 247, 0.25); border-radius: 10px; padding: 25px;">
+      <p align="center">
+        <img src="https://img.shields.io/badge/-Most%20Recently%20Updated-bb9af7?style=flat-square&logo=github&logoColor=white" alt="Most Recently Updated Badge" />
+      </p>
+      <h3 align="center"><font color="#bb9af7">🔄 my_portfolio</font></h3>
+      <p align="left">*No description provided yet.*</p>
+      <p align="left"><b>Last updated:</b> Aug 2026</p>
+      <p align="center"><kbd>HTML</kbd></p>
+      <p align="center">
+        <a href="https://github.com/Manojgodavarthii/my_portfolio">
+          <img src="https://img.shields.io/badge/Explore%20Repository-bb9af7?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repository" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<!-- LATEST_PROJECT:END -->
+
+---
+
 <h2 align="center"><font color="#7aa2f7">🛠️ Featured Projects</font></h2>
 
 <table align="center" style="border-collapse: separate; border-spacing: 15px;">
