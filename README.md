@@ -369,11 +369,6 @@ class GodavarthiNagaManojBalaji:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manojgodavarthii&bg_color=16161e&color=7aa2f7&line=7aa2f7&point=bb9af7&area=true&hide_border=true" alt="Manoj's Contribution Graph" width="90%" />
 </p>
 
-<h3 align="center">🐍 Contribution Snake animation</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Manojgodavarthii/Manojgodavarthii/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
-
 ---
 
 <h2 align="center">💭 Daily Inspiration</h2>
