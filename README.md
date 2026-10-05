@@ -364,10 +364,17 @@ class GodavarthiNagaManojBalaji:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manojgodavarthii&theme=tokyonight" alt="Manoj's Commit Languages" width="48%" />
 </p>
 
-<h3 align="center">📈 Contribution Activity</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manojgodavarthii&bg_color=16161e&color=7aa2f7&line=7aa2f7&point=bb9af7&area=true&hide_border=true" alt="Manoj's Contribution Graph" width="90%" />
-</p>
+<!-- Tokyo Night Styled Contribution Graph Card -->
+  <table border="0" cellpadding="0" cellspacing="0" align="center" style="border:none;">
+    <tr>
+      <td align="center" style="background-color: #1a1b26; padding: 22px 28px; border-radius: 12px; border: 1px solid #2f354a; box-shadow: 0 4px 20px rgba(0,0,0,0.4);">
+        <p align="left" style="margin: 0 0 12px 6px; font-weight: bold; color: #7aa2f7; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px;">
+          📅 <b>Contribution Activity Calendar</b>
+        </p>
+        <img src="https://ghchart.rshah.org/2ac3de/Manojgodavarthii" alt="Manoj's Tokyo Night Contribution Graph" width="100%" />
+      </td>
+    </tr>
+  </table>
 
 ---
 
