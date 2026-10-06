@@ -92,12 +92,12 @@ class GodavarthiNagaManojBalaji:
       <p align="center">
         <img src="https://img.shields.io/badge/-Latest%20Added-7aa2f7?style=flat-square&logo=github&logoColor=white" alt="Latest Added Badge" />
       </p>
-      <h3 align="center"><font color="#7aa2f7">🚀 Interactive-Data-Analytics-Machine-Learning-Suite</font></h3>
-      <p align="left">An end-to-end interactive Streamlit data platform featuring automated data cleaning, exploratory visual analytics, AI insights, and real-time custom machine...</p>
-      <p align="left"><b>Last updated:</b> Aug 2026</p>
+      <h3 align="center"><font color="#7aa2f7">🚀 django-auth-admin-panel</font></h3>
+      <p align="left">A full-stack Django web application featuring role-based user authentication, profile editing, and a dedicated admin dashboard for managing user accounts. It...</p>
+      <p align="left"><b>Last updated:</b> Oct 2026</p>
       <p align="center"><kbd>Python</kbd></p>
       <p align="center">
-        <a href="https://github.com/Manojgodavarthii/Interactive-Data-Analytics-Machine-Learning-Suite">
+        <a href="https://github.com/Manojgodavarthii/django-auth-admin-panel">
           <img src="https://img.shields.io/badge/Explore%20Repository-7aa2f7?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repository" />
         </a>
       </p>
