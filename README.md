@@ -92,12 +92,12 @@ class GodavarthiNagaManojBalaji:
       <p align="center">
         <img src="https://img.shields.io/badge/-Latest%20Added-7aa2f7?style=flat-square&logo=github&logoColor=white" alt="Latest Added Badge" />
       </p>
-      <h3 align="center"><font color="#7aa2f7">🚀 django-auth-admin-panel</font></h3>
-      <p align="left">A full-stack Django web application featuring role-based user authentication, profile editing, and a dedicated admin dashboard for managing user accounts. It...</p>
+      <h3 align="center"><font color="#7aa2f7">🚀 Temperature-Weather-Forecasting-ML-Pipeline</font></h3>
+      <p align="left">An end-to-end machine learning time-series pipeline developed as part of a technical interview assessment to forecast hourly weather temperatures. It leverag...</p>
       <p align="left"><b>Last updated:</b> Oct 2026</p>
       <p align="center"><kbd>Python</kbd></p>
       <p align="center">
-        <a href="https://github.com/Manojgodavarthii/django-auth-admin-panel">
+        <a href="https://github.com/Manojgodavarthii/Temperature-Weather-Forecasting-ML-Pipeline">
           <img src="https://img.shields.io/badge/Explore%20Repository-7aa2f7?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repository" />
         </a>
       </p>
@@ -106,12 +106,12 @@ class GodavarthiNagaManojBalaji:
       <p align="center">
         <img src="https://img.shields.io/badge/-Most%20Recently%20Updated-bb9af7?style=flat-square&logo=github&logoColor=white" alt="Most Recently Updated Badge" />
       </p>
-      <h3 align="center"><font color="#bb9af7">🔄 my_portfolio</font></h3>
-      <p align="left">*No description provided yet.*</p>
-      <p align="left"><b>Last updated:</b> Aug 2026</p>
-      <p align="center"><kbd>HTML</kbd></p>
+      <h3 align="center"><font color="#bb9af7">🔄 django-auth-admin-panel</font></h3>
+      <p align="left">A full-stack Django web application featuring role-based user authentication, profile editing, and a dedicated admin dashboard for managing user accounts. It...</p>
+      <p align="left"><b>Last updated:</b> Oct 2026</p>
+      <p align="center"><kbd>Python</kbd></p>
       <p align="center">
-        <a href="https://github.com/Manojgodavarthii/my_portfolio">
+        <a href="https://github.com/Manojgodavarthii/django-auth-admin-panel">
           <img src="https://img.shields.io/badge/Explore%20Repository-bb9af7?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repository" />
         </a>
       </p>
